@@ -12,5 +12,4 @@
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/magarpratik)
-- [GitHub](https://github.com/magarpratik)
 - [Twitter](https://x.com/magarpratik_)
