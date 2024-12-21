@@ -5,7 +5,7 @@
 ## Employment
 
 **Kinetic (_Feb 2022 - Present_)**
-- Developed APIs to facilitate migration of legacy applications to the cloud
+- Developed APIs for migrating legacy applications to the cloud
 - Implemented payment refunds and cancellations for an internal payment system
 
 ## Education
