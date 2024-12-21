@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### I sometimes write on [my blog](https://www.thecodingpalace.com).
+#### I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Employment
 
