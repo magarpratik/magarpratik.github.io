@@ -8,7 +8,7 @@
 - Implemented payment refunds and installment cancellations for an internal payment system
 
 ## Education
-- MSc, Computer Science | University of Birmingham (_Sep 2021_)
+- MSc, Computer Science - University of Birmingham (_Sep 2021_)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/magarpratik)
