@@ -1,6 +1,6 @@
 # Software Engineer
 
-<p>I occassionally write on [my blog](https://www.thecodingpalace.com).</p>
+I occassionally write on <a href="https://www.thecodingpalace.com">my blog</a>.
 
 ## Employment
 
@@ -15,5 +15,5 @@
 
 ## Connect with me
 
-- <p>[LinkedIn](https://www.linkedin.com/in/magarpratik)</p>
-- <p>[Twitter](https://x.com/magarpratik_)</p>
+- <a href="https://www.linkedin.com/in/magarpratik">LinkedIn</a>
+- <a href="">[Twitter](https://x.com/magarpratik_)</a>
