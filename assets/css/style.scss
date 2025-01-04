@@ -4,12 +4,9 @@
 @import "{{ site.theme }}";
 
 a {
- color: #267CB9;
- text-decoration: none;
+ transition: font-weight 2s ease
 }
 
 a:hover, a:focus {
- transition: all 1s ease 0s;
- color: red;
  font-weight: bold;
 }
