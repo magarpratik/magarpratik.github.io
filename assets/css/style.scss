@@ -4,9 +4,5 @@
 @import "{{ site.theme }}";
 
 a {
- transition: font-weight 2s ease
-}
-
-a:hover, a:focus {
- font-weight: bold;
+ transition: font-weight 10s ease
 }
