@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+a {
+ color: #267CB9;
+ text-decoration: none;
+}
+
+a:hover, a:focus {
+ transition: all 1s ease 0s;
+ color: red;
+ font-weight: bold;
+}
+
 a:hover {
   transition: all 1s ease 0s;
   color: red;
