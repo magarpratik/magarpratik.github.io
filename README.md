@@ -1,7 +1,7 @@
 # Software Engineer
 
 👨‍💻 **Experienced engineer:** 3+ years of experience building backend systems<br>
-🔌 **API specialist:** Developed APIs, for internal and external teams<br>
+🔌 **API specialist:** Developed APIs to support new features<br>
 🏅 **Top performer:** Recognised as a Top 10 performer at Kinetic for 2023
 
 I occassionally write on [my blog](https://www.thecodingpalace.com).
@@ -20,16 +20,14 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### Lead developer for a payments software
 
-- Engineered a database synchronisation solution between AWS and GCP systems, laying the foundation for a
-successful migration from GCP to AWS
+- Engineered a database synchronisation solution between AWS and GCP systems, laying the foundation for a successful migration from GCP to AWS
 - Resolved critical live customer issues by collaborating with external teams, ensuring minimal disruption
 - Implemented payment refunds and cancellations
 
 #### Core member of the platform engineering team
 
 - Developed APIs and backend services for live products, while also laying the foundation for migrating legacy applications to the cloud
-- Extracted commonly used code into internal packages, improving eﬃciency,
-maintainability and developer experience
+- Extracted commonly used code into internal packages, improving eﬃciency, maintainability and developer experience
 
 ## Education
 
