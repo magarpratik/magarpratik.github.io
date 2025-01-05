@@ -38,7 +38,7 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Recommendations
 
-> _“Everything Pratik touches always looked better after he influenced it…”_<br>
+> “Everything Pratik touches always looked better after he influenced it…”<br>
 > — [David Collins](https://www.linkedin.com/in/david-collins-45729933/), Former Engineering Manager, Kinetic
 
 ## Connect with me
