@@ -26,7 +26,7 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### Core member of the platform engineering team
 
-- Developed APIs and backend services for live products, while also laying the foundation for migrating legacy applications to the cloud
+- Developed APIs and backend services for live products, facilitating the migration of legacy applications to a cloud-based SaaS solution with minimal customer disruption
 - Extracted commonly used code into internal packages, improving eﬃciency, maintainability and developer experience
 
 ## Education
