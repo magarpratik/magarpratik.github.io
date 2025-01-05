@@ -1,7 +1,7 @@
 # Software Engineer
 
-👨‍💻 **Experienced engineer:** 3+ years of experience building the backend for cloud-based SaaS applications<br>
-🔌 **API specialist:** Developed core APIs, empowering feature teams to deliver high-impact functionalities<br>
+👨‍💻 **Experienced engineer:** 3+ years of experience building backend systems<br>
+🔌 **API specialist:** Developed APIs, for internal and external teams<br>
 🏅 **Top performer:** Recognised as a Top 10 performer at Kinetic for 2023
 
 I occassionally write on [my blog](https://www.thecodingpalace.com).
