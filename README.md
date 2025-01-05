@@ -6,6 +6,10 @@
 
 I occassionally write on [my blog](https://www.thecodingpalace.com).
 
+## 💻 Core skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,cs,dotnet,py,postgres,mongodb,aws,gcp,jenkins,docker&perline=6)](https://skillicons.dev)
+
 ## Employment
 
 ### Kinetic (_Feb 2022 - Present_)
