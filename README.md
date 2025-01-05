@@ -8,11 +8,9 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Core skills
 
-- **Languages:** TypeScript, C#
-- **Backend frameworks:** Node, Express, ASP.NET Web API
+- **Languages & Frameworks:** TypeScript, C#, Node, Express, ASP.NET Web API
 - **Databases:** MongoDB, MS SQL Server, Cloud Firestore
-- **Cloud Platforms:** AWS, GCP
-- **DevOps:** Docker, Jenkins, GitHub Actions
+- **Cloud & DevOps:** AWS, GCP, Docker, Jenkins, GitHub Actions
 
 ## Employment
 
