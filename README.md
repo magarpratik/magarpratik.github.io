@@ -39,7 +39,6 @@ Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is
 ## Recommendations
 
 > “Everything Pratik touches always looked better after he influenced it…”<br>
->
 > — [David Collins](https://www.linkedin.com/in/david-collins-45729933/), Former Engineering Manager, Kinetic
 
 ## Connect with me
