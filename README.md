@@ -20,14 +20,14 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### Lead developer for a payments software
 
-- Engineered a database synchronisation solution between AWS and GCP systems, laying the foundation for future migration initiatives
-- Collaborated with external teams to resolve high-priority live customer issues, ensuring minimal service disruption
-- Developed key features by implementing payment refunds and cancellations, enhancing core functionality
+- **Engineered a database synchronisation solution** between AWS and GCP systems, laying the foundation for future migration initiatives
+- **Resolved high-priority live customer bugs** by collaborating with external teams, ensuring minimal service disruption
+- **Enhanced core payments functionality** by implementing payment refunds and cancellations
 
 #### Core member of the platform engineering team
 
-- Developed APIs and backend services for live products, facilitating the migration of legacy applications to a cloud-based SaaS solution with minimal customer disruption
-- Extracted commonly used code into internal packages, improving eﬃciency, maintainability and developer experience
+- **Developed APIs and backend services** for live products, enabling migration of legacy applications to a cloud-based SaaS solution with minimal customer disruption
+- **Improved code maintainability** by extracting commonly used code into internal packages, improving eﬃciency, maintainability and developer experience
 
 ## Education
 
