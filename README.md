@@ -2,7 +2,7 @@
 
 👨‍💻 **Experienced engineer:** 3+ years of experience building backend systems<br>
 🔌 **API specialist:** Developed numerous APIs to support key features<br>
-🏅 **Top performer:** Top 10 performer at Kinetic (2023) and nominated for 2024 Board Award
+🏅 **Top performer:** Top 10 performer (2023) and Board Award nominee (2024) at Kinetic
 
 I occassionally write on [my blog](https://www.thecodingpalace.com).
 
