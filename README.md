@@ -1,8 +1,8 @@
 # Software Engineer
 
-- **Experienced engineer:** 3+ years of experience building the backend for cloud-based SaaS applications
-- **API specialist:** Developed core APIs, empowering feature teams to deliver high-impact functionalities
-- **Top performer:** Recognised as a Top 10 performer at Kinetic for 2023
+- 👨‍💻 **Experienced engineer:** 3+ years of experience building the backend for cloud-based SaaS applications
+- 🔌 **API specialist:** Developed core APIs, empowering feature teams to deliver high-impact functionalities
+- 🏅 **Top performer:** Recognised as a Top 10 performer at Kinetic for 2023
 
 I occassionally write on [my blog](https://www.thecodingpalace.com).
 
@@ -33,15 +33,15 @@ maintainability and developer experience
 
 ## Education
 
-MSc Computer Science - University of Birmingham (_Sep 2021_)
+🎓 MSc Computer Science - University of Birmingham (_Sep 2021_)
 
 ## Open source
 
-Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik), an open-source platform that streamlines SaaS and digital product sales.
+🌍 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik), an open-source platform that streamlines SaaS and digital product sales.
 
 ## Certifications
 
-AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)
+☁️ AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)
 
 ## Connect with me
 
