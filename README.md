@@ -27,17 +27,19 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 - **Developed APIs and backend services** for live products, enabling migration of legacy applications to the cloud with minimal disruption
 - **Improved code maintainability** by extracting reusable code into internal packages
 
-## Education
+## Education and certifications
 
-🎓 MSc Computer Science - University of Birmingham (_Sep 2021_)
+🎓 MSc Computer Science - University of Birmingham _(Sep 2021)_<br>
+☁️ AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)
 
 ## Open source
 
 🌍 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik), an open-source platform that streamlines SaaS and digital product sales.
 
-## Certifications
+## Recommendations
 
-☁️ AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)
+_“Everything Pratik touches always looked better after he influenced it…”_<br>
+David Collins, Former Engineering Manager, Kinetic
 
 ## Connect with me
 
