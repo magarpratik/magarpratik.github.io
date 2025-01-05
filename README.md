@@ -34,7 +34,7 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Open source contributions
 
-🌍 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik), an open-source platform that streamlines SaaS and digital product sales.
+Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik), an open-source platform that streamlines SaaS and digital product sales.
 
 ## Recommendations
 
