@@ -20,9 +20,9 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### Lead developer for a payments software
 
-- Engineered a database synchronisation solution between AWS and GCP systems, laying the foundation for a successful migration from GCP to AWS
-- Resolved critical live customer issues by collaborating with external teams, ensuring minimal disruption
-- Implemented payment refunds and cancellations
+- Engineered a database synchronisation solution between AWS and GCP systems, laying the foundation for future migration initiatives
+- Collaborated with external teams to resolve high-priority live customer issues, ensuring minimal service disruption
+- Developed key features by implementing payment refunds and cancellations, enhancing core functionality
 
 #### Core member of the platform engineering team
 
