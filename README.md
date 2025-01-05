@@ -25,7 +25,7 @@ maintainability and developer experience
 
 ## Education
 
-- MSc Computer Science - University of Birmingham (_Sep 2021_)
+MSc Computer Science - University of Birmingham (_Sep 2021_)
 
 ## Open source
 
