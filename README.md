@@ -32,10 +32,6 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 🎓 MSc Computer Science - University of Birmingham _(Sep 2021)_<br>
 ☁️ AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)
 
-## Open source contributions
-
-Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik), an open-source platform that streamlines SaaS and digital product sales.
-
 ## Recommendations
 
 > “Everything Pratik touches always looked better after he influenced it…”<br>
