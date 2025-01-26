@@ -1,8 +1,8 @@
 # Software Engineer
 
 👨‍💻 **Experienced engineer:** 3+ years of experience<br>
-🏅 **Top performer:** Kinetic Top 10 performer (2023) & 2024 Board Award nominee<br>
-⚙️ **Backend-focused:** Built APIs and backend systems
+⚙️ **Backend-focused:** Built APIs and backend systems<br>
+🏅 **Top performer:** Kinetic Top 10 performer (2023) & 2024 Board Award nominee
 
 I occassionally write on [my blog](https://www.thecodingpalace.com).
 
