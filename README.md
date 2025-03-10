@@ -35,7 +35,7 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 ## Recommendations
 
 > “Everything Pratik touches always looked better after he influenced it…”<br>
-> — [David Collins](https://www.linkedin.com/in/david-collins-45729933/), Former Engineering Manager, Kinetic
+> — [David Collins](https://www.linkedin.com/in/david-collins-45729933/), Former Engineering Team Lead, Kinetic
 
 ## Connect with me
 
