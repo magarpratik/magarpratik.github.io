@@ -27,6 +27,18 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 - **Developed APIs and backend services** for live products, enabling migration of legacy applications to the cloud with minimal disruption
 - **Improved code maintainability** by extracting reusable code into internal packages
 
+## Projects
+
+### Send a Secret!
+
+#### A secure way to share sensitive information via one-time-use links
+
+- **End-to-end encryption:** Data is encrypted before being sent to the server
+- **One-time access:** Secrets self-destruct after 10 mintues or after being viewed once
+- **Built with:** TypeScript, Go and GCP
+
+[Try it out](https://send-a-secret.web.app/) | [GitHub](https://github.com/magarpratik/send-a-secret)
+
 ## Education and certifications
 
 🎓 MSc Computer Science - University of Birmingham _(Sep 2021)_<br>
