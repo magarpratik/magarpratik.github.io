@@ -29,11 +29,9 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Projects
 
-### Send a Secret!
+### Send a Secret! | [Try it out](https://send-a-secret.web.app/) | [GitHub](https://github.com/magarpratik/send-a-secret)
 
-A secure way to share sensitive information via one-time-use links.<br>
-[Try it out](https://send-a-secret.web.app/)<br>
-[GitHub](https://github.com/magarpratik/send-a-secret)
+A secure way to share sensitive information via one-time-use links.
 
 ## Education and certifications
 
