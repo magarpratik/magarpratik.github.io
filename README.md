@@ -29,8 +29,8 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Education and certifications
 
-🎓 MSc Computer Science - University of Birmingham _(Sep 2021)_<br>
-☁️ AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)
+☁️ AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/fb2ceee8-a844-4abb-9622-db0eb48220c4/public_url)_(Dec 2023)_<br>
+🎓 MSc Computer Science - University of Birmingham _(Sep 2021)_
 
 ## Recommendations
 
