@@ -33,7 +33,7 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### A secure way to share sensitive information via one-time-use links
 
-[Try it out](https://send-a-secret.web.app/)
+[Try it out](https://send-a-secret.web.app/)<br>
 [GitHub](https://github.com/magarpratik/send-a-secret)
 
 ## Education and certifications
