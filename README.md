@@ -33,11 +33,8 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### A secure way to share sensitive information via one-time-use links
 
-- **End-to-end encryption:** Data is encrypted before being sent to the server
-- **One-time access:** Secrets self-destruct after 10 mintues or after being viewed once
-- **Built with:** TypeScript, Go and GCP
-
-[Try it out](https://send-a-secret.web.app/) | [GitHub](https://github.com/magarpratik/send-a-secret)
+[Try it out](https://send-a-secret.web.app/)
+[GitHub](https://github.com/magarpratik/send-a-secret)
 
 ## Education and certifications
 
