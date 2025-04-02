@@ -18,7 +18,7 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 #### Lead developer for a payments software
 
-- **Currently leading an integration with a payment provider** to allow Open Banking payments to our customers
+- **Designed and implemented technical solutions** to build integrations with third party payment providers
 - **Engineered a database synchronisation solution** between AWS and GCP systems, enabling future migration
 - **Resolved high-priority customer bugs** by collaborating with external teams, ensuring minimal service disruption
 
