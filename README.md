@@ -14,7 +14,9 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Employment
 
-### Kinetic (_Feb 2022 - Present_)
+### CircleCI (_Sep 2025 - Present_)
+
+### Kinetic (_Feb 2022 - Aug 2025_)
 
 #### Lead developer for a payments software
 
