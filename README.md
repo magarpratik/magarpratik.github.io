@@ -1,6 +1,6 @@
 # Software Engineer
 
-👨‍💻 **Experienced engineer:** 3+ years of experience<br>
+👨‍💻 **Experienced engineer:** 3.5+ years of experience<br>
 ⚙️ **Backend-focused:** Built APIs and backend systems<br>
 🏅 **Top performer:** Kinetic Top 10 performer (2023) & 2024 Board Award nominee
 
