@@ -16,6 +16,8 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ### CircleCI (_Sep 2025 - Present_)
 
+#### Software engineer in the CIAM team
+
 ### Kinetic (_Feb 2022 - Aug 2025_)
 
 #### Lead developer for a payments software
