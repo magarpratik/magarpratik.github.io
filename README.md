@@ -8,8 +8,8 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ## Core skills
 
-- **Languages & Frameworks:** TypeScript, Go, C#, Node, Express, ASP.NET Web API
-- **Databases:** MongoDB, MS SQL Server, Cloud Firestore
+- **Languages:** Go, TypeScript, C#
+- **Databases:** PostgreSQL, MongoDB, Cloud Firestore
 - **Cloud & DevOps:** AWS, GCP, Docker, Jenkins, GitHub Actions
 
 ## Employment
@@ -20,16 +20,11 @@ I occassionally write on [my blog](https://www.thecodingpalace.com).
 
 ### Kinetic (_Feb 2022 - Aug 2025_)
 
-#### Lead developer for a payments software
+#### Software engineer in the platform engineering team
 
 - **Designed and implemented technical solutions** to build integrations with third party payment providers
 - **Engineered a database synchronisation solution** between AWS and GCP systems, enabling future migration
 - **Resolved high-priority customer bugs** by collaborating with external teams, ensuring minimal service disruption
-
-#### Core member of the platform engineering team
-
-- **Developed APIs and backend services** for live products, enabling migration of legacy applications to the cloud with minimal disruption
-- **Improved code maintainability** by extracting reusable code into internal packages
 
 ## Projects
 
