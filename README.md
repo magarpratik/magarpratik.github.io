@@ -1,10 +1,15 @@
-Hi! I'm a software engineer who enjoys learning and thinking about the art and science of writing software. Occasionally, I write about it on my blog—mostly to clarify my own understanding and as a reference for when I forget. I also sometimes build side projects (or at least try to).
+Hi! 👋
 
-### Projects
+I'm Pratik and I've been a software engineer for the last 4 years. I specialise in backend development.
 
-- [Send a Secret!](https://send-a-secret.web.app/)
+I occasionally write on my [blog](https://www.thecodingpalace.com/).
 
-### Contact
+I also sometimes build side projects (or at least try to).
 
-- [LinkedIn](https://www.linkedin.com/in/magarpratik)
-- [Twitter](https://x.com/magarpratik_)
+## Projects
+
+[Send a Secret](https://send-a-secret.web.app/) (in development) — A secure way to share sensitive information via one-time links
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/magarpratik) | [Twitter](https://x.com/magarpratik_)
