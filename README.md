@@ -6,7 +6,7 @@ I occasionally write on my [blog](https://www.thecodingpalace.com/) and sometime
 
 ### Projects
 
-- [Send a Secret](https://send-a-secret.web.app/)
+- [Send a Secret!](https://send-a-secret.web.app/)
 
 ### Contact
 
