@@ -1,8 +1,8 @@
 Hi! 👋
 
-I'm Pratik, a backend developer specialising in TypeScript and Go.
+I'm Pratik and I specialise in backend development using TypeScript and Go.
 
-I enjoy solving tricky problems, improving how I write software and occasionally sharing my thoughts on my [blog](https://www.thecodingpalace.com/). I also tinker with side projects when I can.
+I enjoy solving tricky problems, improving how I write software and occasionally sharing my thoughts on my [blog](https://www.thecodingpalace.com/). I also tinker with side projects when I get the chance.
 
 ### Projects
 - [Send a Secret!](https://send-a-secret.web.app/)
