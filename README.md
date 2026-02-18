@@ -1,6 +1,6 @@
 Hi! 👋
 
-I'm Pratik and I specialise in backend development.
+I'm Pratik and I specialise in backend development using TypeScript and Go.
 
 I enjoy solving tricky problems, deepening my understanding of software engineering and occasionally writing on my [blog](https://www.thecodingpalace.com/).
 
